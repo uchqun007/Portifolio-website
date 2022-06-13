@@ -1,0 +1,9 @@
+{
+  "name": "bable",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "echo \"Did you mean to install the package `babel`?\" && exit 1"
+  }
+}
